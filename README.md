@@ -1,0 +1,3 @@
+# Project Euler Solutions
+
+This repository contains my solutions to the mathematical/coding challenges hosted at [projecteuler.net](https://projecteuler.net/). I complete this challenges when I have a bit of spare time between the more structured learning and courses I am completing. To date, I have been attempting the challenges in JavaScript, but I am planning to complete more challenges in Python. 
